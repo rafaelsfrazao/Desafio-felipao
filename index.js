@@ -13,12 +13,10 @@ let nomeHeroi = ["Brian", "Diana," ,"Ektor"];
  ]
 
 //Ainda aprendendo a construir repetições e condições.
-for     
-   
+      
 
 
  
 
 
-
-console.log(heroi);
+console.log(nomeHeroi[0],elo[0][0]);
